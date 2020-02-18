@@ -1,0 +1,23 @@
+---
+title: "Hitz Cardiovascular Genetics Lab - Research"
+layout: textlay
+excerpt: "Hitz Cardiovascular Genetics Lab -- Research"
+sitemap: false
+permalink: /Research/
+---
+
+# Research
+
+Congenital Heart Defects (CHD) account for the majority of foetal and infant deaths with high incidence rates ranging from 1.2-1.4% for all live births (Hoffman and Kaplan, 2002; Oyen et al., 2009). Within the last 30 years, we have seen substantially increased survival rates due to surgical, interventional and clinical intensive care advancements resulting in a rapidly growing number of CHD patients reaching adulthood (GUCH patients) (van der Bom et al., 2011). Nevertheless, survival rates still do not reach normal levels, resource utilisation is high especially among severely affected patients, and more importantly, the underlying aetiology is unclear for the majority of cases.
+
+Although numerous causes have been proposed ranging from environmental to genetics, the majority of cases show a strong genetic predisposition, such as highly penetrant dominant CHD conditions (re-occurrence rate as high as 50%) (Tartaglia et al., 2001). Unfortunately, gene discovery is difficult given low-occurrence rates of individual CHD sub-phenotypes, a large number of possible candidate genes (~more than 500) and more importantly the commonly observed issue of reduced penetrance and variable expressivity making risk predictions extremely challenging without genome-wide diagnostics and detailed phenotyping.
+
+Nevertheless, some of these factors can be overcome by national registries and recent advances in next-generation sequencing technologies. Diagnostic yields have dramatically increased over the years reaching now levels of ~30% and more in defined CHD groups (Homsy et al., 2015; Sifrim and Hitz et al., 2016; Zaidi et al., 2013). Therefore, detailed phenotyping combined with reliable genome-wide gene discovery will enable disease risk prediction and comprehensive counselling about re-occurrence rates and inheritance pattern, not to mention risk prediction for primary and secondary patient outcome.
+
+To tackle these important research aspects in the field of CHD we primarily focuses on the following research projects:
+
+- Large-scale Next-Generation Sequencing of nation-wide cohorts to identify genes associated with Congenital Heart Defects (CHD).
+
+- Functional follow-up downstream characterization of novel CHD genes using genome editing in model organisms (e.g. Zebrafish and Mouse).
+
+- Single –cell-sequencing to understand heart development in diseased and non-diseased model organisms and human heart tissue samples.

@@ -1,0 +1,90 @@
+- name: Marc-Philipp Hitz
+  photo: MPH.jpg
+  info: Associate professor, DZHK
+  email: Marc-Philipp.Hitz@uksh.de
+  number_educ: 4
+  education1: PhD - Sanger Institute, Cambridge, UK
+  education2: 
+  education3: 
+  education4: 
+
+- name: Anne-Karin Kahlert
+  photo: AKK.jpg
+  info: Dr. med.
+  email: Anne-Karin.Kahlert@uksh.de
+  number_educ: 3
+  education1: Postdoc
+  education2: Ph.D.
+  education3: 
+
+- name: Kirstin Hoff
+  photo: KH.jpg
+  info: Postdoc
+  email: k.hoff@pedcard.uni-kiel.de
+  number_educ: 2
+  education1: Postdoc
+  education2: Ph.D. CAU Kiel
+  
+- name: Kerstin Runde
+  photo: KR.jpg
+  info: Technician
+  email: kerstin.runde@uksh.de
+  number_educ: 1
+  education1: 
+
+- name: Enrique Audain
+  photo: EA.jpg
+  info: PhD Student
+  email: enrique.audain@gmail.com
+  number_educ: 2
+  education1: Biomedical Engeniering, Technical University of Havana
+  education2: Master Bioinformatics, Center for Genetic Engineering and Biotechnology, Havana
+
+- name: Philipp Hofmann
+  photo: PH.jpg
+  info: PhD Student
+  email: Philipp.Hofmann@uksh.de
+  number_educ: 2
+  education1: Bachelor of Science in Biomimetic, Westphalian University of Applied Science
+  education2: Master of Science in Biology, Christian-Albrechts University Kiel
+  education3:
+  education4:
+
+- name: Asal Farahvashi
+  photo: AF.jpg
+  info: PhD Student
+  email: Asalbanoo.Farahvashi@uksh.de
+  number_educ: 2
+  education1: Bachelor of Science in Biology, Christian-Albrechts University Kiel
+  education2: Master of Science in Biology Universitätklinik Schleswig-Holstein Kiel
+  education3:
+
+- name: Gregor Dombrowsky
+  photo: GD.jpg
+  info: PhD Student
+  email: Gregor.Dombrowsky@uksh.de
+  number_educ: 2
+  education1: Bachelor of Science in Biochemistry, Christian-Albrechts University Kiel
+  education2: Master of Science in Biochemistry, Christian-Albrechts University Kiel
+  education3:
+  education4:
+
+- name: Saranya Balachandran
+  photo: SB.jpg
+  info: Bioinformatician
+  email:
+  number_educ: 2
+  education1: Master
+  education2: Basheleor
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
