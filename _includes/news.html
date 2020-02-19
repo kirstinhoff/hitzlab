@@ -2,9 +2,9 @@
 <div class="well">
 <h4>Funding and support is provided by:</h4>
 
-{% for funding in site.data.news limit:9 %}
-{{ funding.agencia }}
-<p>{{ funding.logo }}</p>
+{% for funder in site.data.news_funder limit:9 %}
+{{ funder.agency }}
+<p><img src='{{ site.url }}{{ site.baseurl }}{{ funder.logo }}' style='width: 192px'></p>
 {% endfor %}
 
 
