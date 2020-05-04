@@ -13,24 +13,26 @@
   info: Dr. med.
   email: Anne-Karin.Kahlert@uksh.de
   number_educ: 3
-  education1: Postdoc
-  education2: Ph.D.
-  education3: 
+  education1: Postdoc, University Hospital Schleswig-Holstein, Kiel
+  education2: Human Geneticist, Carl Gustav Carus Faculty of Medicine, Dresden
+  education3: Medical Studies University Hospital Heidelberg
 
 - name: Kirstin Hoff
-  photo: KH.jpg
+  photo: Homepage_Pic_Kiki.jpg.png
   info: Postdoc
-  email: k.hoff@pedcard.uni-kiel.de
-  number_educ: 2
-  education1: Postdoc
-  education2: Ph.D. CAU Kiel
+  email: Kirstin.Hoff@uksh.de
+  number_educ: 4
+  education1: Bachelor of Science in Biotechnology, Leibniz University Hannover
+  education2: Master of Science in Biomedicine, Hannover Medical School (MHH)
+  education3: PhD, Christian-Albrechts University Kiel
+  education4: Postdoc, Christian-Albrechts University Kiel
   
 - name: Kerstin Runde
   photo: KR.jpg
   info: Technician
-  email: kerstin.runde@uksh.de
+  email: Kerstin.Runde@uksh.de
   number_educ: 1
-  education1: 
+  education1: Medical Laboratory Technician, University Hospital Münster
 
 - name: Enrique Audain
   photo: EA.jpg
@@ -56,7 +58,7 @@
   email: Asalbanoo.Farahvashi@uksh.de
   number_educ: 2
   education1: Bachelor of Science in Biology, Christian-Albrechts University Kiel
-  education2: Master of Science in Biology Universitätklinik Schleswig-Holstein Kiel
+  education2: Master of Science in Biology, Christian-Albrechts University Kiel
   education3:
 
 - name: Gregor Dombrowsky
