@@ -1,34 +1,33 @@
-- name: Marc-Philipp Hitz
+- name: Marc-Phillip Hitz
   photo: MPH.jpg
-  info: Associate professor, DZHK
+  info: MD, PhD, MHM, Associate Professor (DZHK)
   email: Marc-Philipp.Hitz@uksh.de
   number_educ: 4
-  education1: PhD - Sanger Institute, Cambridge, UK
-  education2: 
-  education3: 
-  education4: 
+  education1: MD, Georg-August University Göttingen
+  education2: Medical Hospital Management, University for Applied Science, Hannover  
+  education3: Clinical PhD, Wellcome Trust Sanger Institute, University of Cambridge, UK
+  education4: Board certified Pediatrician and Clinical Geneticist
 
 - name: Anne-Karin Kahlert
-  photo: AKK.jpg
-  info: Dr. med.
+  photo: Anne_Pic.jpg
+  info: MD
   email: Anne-Karin.Kahlert@uksh.de
-  number_educ: 3
-  education1: Medical Studies University Hospital Heidelberg
-  education2: Human Geneticist, Carl Gustav Carus Faculty of Medicine, Dresden
-  education3: Postdoc, University Hospital Schleswig-Holstein, Kiel
+  number_educ: 2
+  education1: MD, University Hospital Heidelberg
+  education2: Board certified Clinical Geneticist
 
 - name: Kirstin Hoff
-  photo: Homepage_Pic_Kiki.jpg.png
-  info: Postdoc
+  photo: KH_homepage.jpg
+  info: Dr. rer. nat.
   email: Kirstin.Hoff@uksh.de
   number_educ: 4
-  education1: Bachelor of Science in Biotechnology, Leibniz University Hannover
-  education2: Master of Science in Biomedicine, Hannover Medical School (MHH)
+  education1: B.Sc. Biotechnology, Leibniz University Hannover
+  education2: M.Sc. Biomedicine, Hannover Medical School (MHH)
   education3: PhD, Christian-Albrechts University Kiel
-  education4: Postdoc, University Hospital Schleswig-Holstein, Kiel
+  education4: Postdoc Cardiovascular Genetics, University Hospital Schleswig-Holstein, Kiel
   
 - name: Kerstin Runde
-  photo: KR.jpg
+  photo: Kerstin_Pic.jpg
   info: Technician
   email: Kerstin.Runde@uksh.de
   number_educ: 1
@@ -40,46 +39,40 @@
   email: enrique.audain@gmail.com
   number_educ: 2
   education1: Biomedical Engeniering, Technical University of Havana
-  education2: Master Bioinformatics, Center for Genetic Engineering and Biotechnology, Havana
+  education2: M.Sc. Bioinformatics, Center for Genetic Engineering and Biotechnology, Havana
 
 - name: Philipp Hofmann
   photo: PH.jpg
   info: PhD Student
   email: Philipp.Hofmann@uksh.de
   number_educ: 2
-  education1: Bachelor of Science in Biomimetic, Westphalian University of Applied Science
-  education2: Master of Science in Biology, Christian-Albrechts University Kiel
-  education3:
-  education4:
+  education1: B.Sc. Biomimetic, Westphalian University of Applied Science
+  education2: M.Sc. Biology, Christian-Albrechts University Kiel
 
 - name: Asal Farahvashi
-  photo: AF.jpg
+  photo: Asal_Pic.jpg
   info: PhD Student
   email: Asalbanoo.Farahvashi@uksh.de
   number_educ: 2
-  education1: Bachelor of Science in Biology, Christian-Albrechts University Kiel
-  education2: Master of Science in Biology, Christian-Albrechts University Kiel
-  education3:
+  education1: B.Sc. Biology, Christian-Albrechts University Kiel
+  education2: M.Sc. Biology, Christian-Albrechts University Kiel
 
 - name: Gregor Dombrowsky
   photo: GD.jpg
   info: PhD Student
   email: Gregor.Dombrowsky@uksh.de
   number_educ: 2
-  education1: Bachelor of Science in Biochemistry, Christian-Albrechts University Kiel
-  education2: Master of Science in Biochemistry, Christian-Albrechts University Kiel
-  education3:
-  education4:
+  education1: B.Sc. Biochemistry, Christian-Albrechts University Kiel
+  education2: M.Sc. Biochemistry, Christian-Albrechts University Kiel
 
 - name: Saranya Balachandran
   photo: SB.jpg
-  info: Bioinformatician
-  email:
-  number_educ: 2
-  education1: Master
-  education2: Basheleor
-  education3:
-  education4:
+  info: Bioinformatician, M.Sc.
+  email: sbalachandran@medgen.uni-kiel.de
+  number_educ: 3
+  education1: B.Sc., Karunya Institute of Technology and Sciences
+  education2: M.Sc. Algorithms for Computational Genomics, Saarland University
+  education3: Scientist, Institute of Human Genetics, University Hospital Schleswig-Holstein, Kiel
 
 - name: "This could be you !"
   photo: rock.jpg
